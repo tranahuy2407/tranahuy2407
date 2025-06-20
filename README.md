@@ -77,9 +77,3 @@
 <h2 align="center">💰 Support Me</h2>
 
 <p align="center">💳 Sacombank: <strong>060424072002</strong> (Tran A Huy)</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tranahuy2407&icon=0&color=0" />
-</p>
