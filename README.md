@@ -18,7 +18,9 @@
 ⚡ Fun fact: <strong>I write better code after breaking things — and fixing them twice ☕</strong>
 </div>
 
-<br/>
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
 
 <div align="center"> 
   <a href="https://www.facebook.com/profile.php?id=100010236822834" target="_blank">
@@ -43,25 +45,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,php,html,css,js,jquery,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,laravel,mysql,sqlite,docker,aws" /><br>
   <img src="https://skillicons.dev/icons?i=postman,figma,vscode,git,github" />
-</div>
-
----
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tranahuy2407&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tranahuy2407&theme=radical&hide_border=true&border_radius=10" />
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranahuy2407&layout=compact&theme=radical&hide_border=true&border_radius=10" />
-</div>
-
----
-
-<h2 align="center">🐍 My GitHub Contribution Snake</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tranahuy2407/tranahuy2407/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
 </div>
 
 ---
