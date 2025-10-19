@@ -49,10 +49,29 @@
 
 ---
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tranahuy2407&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+<h2 align="center">📊 My GitHub Stats</h2>
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=tranahuy2407&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=tranahuy2407&theme=tokyonight&hide_border=true&border_radius=10" />
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranahuy2407&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</div>
+
+---
+
 <h2 align="center">✍️ Dev Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
