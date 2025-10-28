@@ -4,18 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Tran+A+Huy!;" />
 </h1>
 
-<h3 align="center">🎓 Currently studying at STU | 💻 Full-stack Developer in the Making | 🇻🇳 Vietnam</h3>
+<h3 align="center">🎓 Student at STU · 💻 Future Full-stack Developer · 🇻🇳 Vietnam</h3>
 
 <br/>
 
 <div align="center">
-🔭 I’m currently a backend-focused intern exploring fullstack development through real-world projects  
+🔭 Currently backend-focused, expanding to fullstack through real-world projects  
 <br/>
-🌱 Sharpening my skills in <strong>Laravel, .NET, Docker, and AWS</strong>  
+🌱 Improving skills in <strong>Laravel, .NET, Docker, AWS</strong>  
 <br/>
-💬 Ask me about <strong>backend architecture, REST APIs, or fullstack stacks like MERN/LAMP</strong>  
+💬 Ask me about <strong>REST APIs, software architecture, deployment</strong>  
 <br/>
-⚡ Fun fact: <strong>I write better code after breaking things — and fixing them twice ☕</strong>
+⚡ Fun fact: <strong>I code better after breaking things — then fixing them twice ☕</strong>
 </div>
 
 ---
@@ -39,11 +39,11 @@
 
 ---
 
-<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages · Frameworks · Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,php,html,css,js,jquery,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,laravel,mysql,sqlite,docker,aws" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,php,html,css,js,jquery,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet,laravel,mysql,sqlite,docker,aws" /><br/>
   <img src="https://skillicons.dev/icons?i=postman,figma,vscode,git,github" />
 </div>
 
@@ -57,13 +57,13 @@
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=tranahuy2407&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="390" src="https://streak-stats.demolab.com?user=tranahuy2407&theme=tokyonight&hide_border=true" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=tranahuy2407&theme=tokyonight&hide_border=true" />
   <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranahuy2407&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranahuy2407&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -82,4 +82,4 @@
 
 ---
 
-<h4 align="center">⭐ If you like my profile, feel free to star some repositories!</h4>
+<h4 align="center">⭐ Like my work? Consider giving a star!</h4>
