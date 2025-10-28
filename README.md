@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tranahuy2407" />
+<img align="right" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=tranahuy2407&style=for-the-badge&color=blue" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Tran+A+Huy!;" />
