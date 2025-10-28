@@ -60,8 +60,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=tranahuy2407&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=tranahuy2407&theme=tokyonight&hide_border=true" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=tranahuy2407&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="380" src="https://github-readme-streak-stats.herokuapp.com?user=tranahuy2407&theme=tokyonight&hide_border=true" />
   <br/>
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranahuy2407&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
