@@ -73,6 +73,10 @@
   <a href="https://dart.dev" target="_blank">
     <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
 </p>
 
 ---
