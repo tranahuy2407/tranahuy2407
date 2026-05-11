@@ -137,10 +137,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="tranahuy2407's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tranahuy2407&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" height="192px"/>
+    <img alt="tranahuy2407's Github Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=tranahuy2407&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="tranahuy2407's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranahuy2407&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
+    <img alt="tranahuy2407's Top Languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tranahuy2407&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
   <br/><br/>
  <p align="center"><sub>⚠️ <b>Note:</b> Top languages is only a metric of the public code on my profile and doesn't reflect experience or skill level.</sub></p>
