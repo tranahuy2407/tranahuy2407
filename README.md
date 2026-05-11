@@ -143,7 +143,7 @@
     <img alt="tranahuy2407's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranahuy2407&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
   <br/><br/>
-  <b>Note:</b> Top languages is only a metric of my public code and doesn't reflect experience or skill level.
+ <p align="center"><sub>⚠️ <b>Note:</b> Top languages is only a metric of the public code on my profile and doesn't reflect experience or skill level.</sub></p>
 </p>
 
 </details>
