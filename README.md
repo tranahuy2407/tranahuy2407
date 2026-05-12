@@ -51,64 +51,30 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Programming Languages
+### 🖥️ Programming Languages
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=60&lines=PHP+🐘;Java+☕;JavaScript+⚡;C+🔧;Dart+🎯;TypeScript+📘)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
-  <a href="https://www.php.net" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://dart.dev" target="_blank">
-    <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,java,js,c,dart,ts&theme=dark&perline=6" />
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="35px"> Frameworks & Tools
+### ⚙️ Frameworks & Tools
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=F7A241&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=60&lines=Laravel+🔴;.NET+💜;React+⚛️;Next.js+▲;Node.js+🟢;Docker+🐳;AWS+☁️;MySQL+🗄️;Tailwind+🎨;Git+🔥;Postman+📮;Figma+🎭)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
-  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"></a>
-  &emsp;
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet,react,nextjs,nodejs,docker,aws,mysql,tailwind,git,github,postman,figma&theme=dark&perline=7" />
 </p>
 
 ---
@@ -116,9 +82,7 @@
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px"> Developer Tools
 
 <p align="center">
-  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark" />
 </p>
 
 ---
@@ -147,7 +111,7 @@
     <img alt="tranahuy2407's Top Languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tranahuy2407&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
   <br/><br/>
- <p align="center"><sub>⚠️ <b>Note:</b> Top languages is only a metric of the public code on my profile and doesn't reflect experience or skill level.</sub></p>
+  <p align="center"><sub>⚠️ <b>Note:</b> Top languages is only a metric of the public code on my profile and doesn't reflect experience or skill level.</sub></p>
 </p>
 
 </details>
