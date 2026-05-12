@@ -13,10 +13,10 @@
 
 ---
 
-## <picture><img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> About Me
 
 <picture>
-  <img align="right" src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250px">
 </picture>
 
 <br><br>
@@ -32,7 +32,7 @@
 
 ---
 
-## <picture><img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px"> Connect with Me
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100010236822834" target="_blank">
@@ -51,7 +51,7 @@
 
 ---
 
-### <picture><img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Programming Languages
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Programming Languages
 
 <p align="center">
   <a href="https://www.php.net" target="_blank">
@@ -81,7 +81,7 @@
 
 ---
 
-### <picture><img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Frameworks & Tools
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="35px"> Frameworks & Tools
 
 <p align="center">
   <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
@@ -113,7 +113,7 @@
 
 ---
 
-### <picture><img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/IDEs.gif?raw=true" width="50px"></picture> Developer Tools
+### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px"> Developer Tools
 
 <p align="center">
   <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
@@ -123,7 +123,7 @@
 
 ---
 
-## <picture><img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> GitHub Stats
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="50px"> GitHub Stats
 
 <details><summary><h3>🔥 Streak Stats</h3></summary>
 
